@@ -17,3 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/snk|Ethnologue data]]
 
+
+**Resources**
+
+  * [[snk:obs|Open Bible Stories (snk)]]
